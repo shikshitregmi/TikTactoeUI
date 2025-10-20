@@ -14,12 +14,6 @@ A simple **Tic Tac Toe** game implemented in C++ using **Raylib** for graphics. 
 
 ---
 
-## Screenshots
-
-*(Optional: Add screenshots of the game here)*
-
----
-
 ## Requirements
 
 - C++ compiler (GCC, Clang, MSVC, etc.)
