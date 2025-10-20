@@ -19,7 +19,7 @@ private:
     state winner;
 };
 
-layout::layout() {
+layout::layout() {`
     for (int r = 0; r < row; r++) {
         for (int c = 0; c < column; c++) {
             tile[r][c] = emp;
@@ -46,8 +46,7 @@ void layout::handleInput() {
                 }
             }
         }
-    }
-}
+  }
 
 bool layout::isWon() {
     // Check rows
